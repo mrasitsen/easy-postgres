@@ -16,3 +16,8 @@ postgress password: admin  <br>
 postgress port: 5432  <br> 
 
 postgress use ./data directory as persistent storage
+
+project-folder/
+├── docker-compose.yml
+├── servers.json
+└── data/          <-- This will be created automatically by Docker
