@@ -1,18 +1,18 @@
 # easy-postgres
-easy postgres setup with docker-compose
+easy postgres setup with docker-compose  <br> 
 
-to run:
+to run:  <br> 
 
-docker-compose up -d
+docker-compose up -d  <br> 
 
-It creates a container for postgress and pgadmin, and automaticaly connects the postgress to pgadmin.
+It creates a container for postgress and pgadmin, and automaticaly connects the postgress to pgadmin.  <br> <br> 
 
-pgadmin username: admin@admin.com
-pgadmin password: admin
-pgadmin port: 8080
+pgadmin username: admin@admin.com  <br> 
+pgadmin password: admin  <br> 
+pgadmin port: 8080  <br> 
 
-postgress username: admin
-postgress password: admin
-postgress port: 5432
+postgress username: admin  <br> 
+postgress password: admin  <br> 
+postgress port: 5432  <br> 
 
 postgress use ./data directory as persistent storage
